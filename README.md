@@ -11,7 +11,11 @@ HPC centers around the world use benchmarks to evaluate their machines and to en
 3.  [Jens Domke](https://domke.gitlab.io), RIKEN, Japan
 4.  [Todd Gamblin](https://people.llnl.gov/tgamblin), LLNL, USA
 5.  [Josef Weidendorfer](https://www.ce.cit.tum.de/en/caps/staff/josef-weidendorfer), TUM, Germany
-6.  [Christopher Zimmer](https://www.olcf.ornl.gov/directory/staff-member/christopher-zimmer), ORNL, USA
+6.  [Veronica Vergara](https://www.ornl.gov/staff-profile/veronica-g-melesse-vergara), ORNL, USA
+
+
+## Please fill out our [SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSearrW0ryZeGPwP4OM5hrv8WgjK86K9WN5jwDXG0BheGGTe7Q/viewform)
+
 
 ## Topics for discussion
 
