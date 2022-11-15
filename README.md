@@ -23,7 +23,9 @@ HPC centers around the world use benchmarks to evaluate their machines and to en
 
 - Hardware evaluation
 - Procurement bids (e.g., CORAL2)
-- Systems acceptance testing
+- Tracking progress
+- Acceptance testing
+ 
 
 ### Challenges
 
@@ -35,6 +37,9 @@ HPC centers around the world use benchmarks to evaluate their machines and to en
 ###  Benchmark suite components
 
 1.  Software
-2.  Build configurations
-3.  Run description/inputs
-4.  Run mechanism
+2.  Building
+3.  Running
+4.  Run specification for different machines and scales
+5.  Output specification
+6.  Performance evaluation
+7.  CI and contiguous testing
