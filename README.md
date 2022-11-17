@@ -48,14 +48,14 @@ HPC centers around the world use benchmarks to evaluate their machines and to en
 
 ## Notes from the meeting on 11/15/2022
 
-### Olga:
+### Olga
 Use them to evaluate hardware, acceptance, etc.
 El Capitán is coming in 2023
 Benchmarks have been written and haven’t changed since 2018
 Lulesh has been retired because LLNL no longer uses those algorithms
 Can we do a little better with our benchmarking efforts?
  
-#### Jens
+### Jens
 Brief overview of the procurement for Fugaku
 Science areas that they wanted to advance with Fugaku
 Where do we use benchmarks?
