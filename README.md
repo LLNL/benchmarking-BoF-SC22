@@ -49,30 +49,30 @@ HPC centers around the world use benchmarks to evaluate their machines and to en
 ## Notes from the meeting on 11/15/2022
 
 ### Olga
-Use them to evaluate hardware, acceptance, etc.
-El Capitán is coming in 2023
-Benchmarks have been written and haven’t changed since 2018
-Lulesh has been retired because LLNL no longer uses those algorithms
-Can we do a little better with our benchmarking efforts?
+- Use them to evaluate hardware, acceptance, etc.
+- El Capitán is coming in 2023
+- Use internal harness to run tests (functionality, performance, stability)
+- Benchmarks have been written and haven’t changed since 2018
+- Lulesh has been retired because LLNL no longer uses those algorithms
+- Can we do a little better with our benchmarking efforts?
  
 ### Jens
-Brief overview of the procurement for Fugaku
-Science areas that they wanted to advance with Fugaku
-Where do we use benchmarks?
-Different things to analyze benchmarks
-Hope is that we get help from the community to continue developing
+- Brief overview of the procurement for Fugaku
+- Science areas that they wanted to advance with Fugaku
+- Where do we use benchmarks?
+- Different things to analyze benchmarks
+- Hope is that we get help from the community to continue developing
  
 ### Brian
-NERSC
-Perlmutter supercomputer
-CPU & GPU partitions (separate)
-600 different codes ran on Perlmutter
-For procurement, we choose application benchmarks
-NERSC-10 procurement will be released next summer
-Relevant and challenge problems with a 10-year outlook
-Perlmutter represents the next stage of the benchmark system
-Check that the system is healthy
-Defining the run rules, which changes to the benchmark a vendor may be allowed to make during the procurement process
+- NERSC Perlmutter supercomputer
+- CPU & GPU partitions (separate)
+- 600 different codes ran on Perlmutter
+- For procurement, we choose application benchmarks
+- NERSC-10 procurement will be released next summer
+- Relevant and challenge problems with a 10-year outlook
+- Perlmutter represents the next stage of the benchmark system
+- Check that the system is healthy
+- Defining the run rules, which changes to the benchmark a vendor may be allowed to make during the procurement process
  
 ### Josef
 Octoberfest 😊
